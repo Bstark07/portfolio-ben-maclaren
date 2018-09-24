@@ -24,7 +24,6 @@ twitter_username: B3n_Stark
 github_username:  Bstark07
 
 repository: portfolio-ben-maclaren
-baseurl: /portfolio-ben-maclaren/
 prepend: site.url
 
 # Build settings
