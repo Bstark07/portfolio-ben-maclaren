@@ -1,0 +1,77 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Benjamin Maclaren
+title_separator: "|"
+email: b3nstark@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Work Portfolio of Benjamin Maclaren, Science Communicator, Designer,
+  Business Developer and Technology Enthusiast
+
+twitter_username: B3n_Stark
+github_username:  Bstark07
+
+repository: portfolio-ben-maclaren
+baseurl: /portfolio-ben-maclaren/
+prepend: site.url
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-feed
+include: ["_pages"]
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+author:
+  name: "Benjamin Maclaren"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an amazing person."
+  location: "Everywhere"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/B3n_Stark"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Bstark07"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
