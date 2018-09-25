@@ -24,9 +24,9 @@ intro:
 feature_row:
 
   - image_path: "assets/images/horizon.jpg"
-    title: Health Horizons
+    title: Health Horizon
     excerpt: "For the past few weeks I've been working with Health Horizons developing
-    communications content including infographs using data analytics, articles and
+    communications content including info-graphs using data analytics, articles and
     public outreach content"
     url: /Health-Horizon/
     btn_label: "View"
