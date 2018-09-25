@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "assets/images/img-temp.jpg"
+  overlay_image: "assets/images/listen_angled.jpg"
 
   actions:
     - label: "Resume PDF"
@@ -14,12 +14,11 @@ header:
     - label: "SVG"
       url: "assets/WebsiteCommsResume.svg"
 
-excerpt: "Science Communicator, Graphic Designer, Business Enthusiast"
+excerpt: "Science Communicator, Graphic Designer, Business Development"
 
 
 intro:
-  - excerpt: "Communications is more than a newsletter or a Facebook post, it is every channel, person, resource and
-            scenario inside and outside a organisation, it is the glue that holds business, people and success together."
+  - excerpt: "Communications is more than a newsletter or a Facebook post, it is every channel, person, resource and scenario inside and outside a organisation, it is the glue that holds business, people and success together."
 
 feature_row:
 
@@ -32,7 +31,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--inverse"
 
-  - image_path: "assets/images/img-temp1.jpg"
+  - image_path: "assets/images/listen_angled.jpg"
     title: "Innovation ACT Committee"
     excerpt: "This year, I am honoured to be able to join a committee of iACT alumnis to help budding businesses going through the iACT Program"
 
