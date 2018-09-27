@@ -6,8 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "assets/images/listen_angled.jpg"
-
+  overlay_image: "assets/Innovation-ACT-Committee/listen_angled.jpg"
   actions:
     - label: "Resume PDF"
       url: "assets/WebsiteCommsResume.pdf"
@@ -35,7 +34,7 @@ feature_row:
     title: "Innovation ACT Committee"
     excerpt: "This year, I am honoured to be able to join a committee of iACT alumnis to help budding businesses going through the iACT Program"
 
-    url: "/portfolio/"
+    url: "/innovation-act/"
     btn_label: "View"
     btn_class: "btn--inverse"
 
