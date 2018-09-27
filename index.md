@@ -50,8 +50,7 @@ feature_row2:
     title: Portfolio Site
     excerpt: "I've been doing a lot of stuff lately ... the iACT Alumni Committee, my Internship
     at Health Horizons, the various little projects that always seem to be happening.
-    It's time I'm graduating from a infrequent [personal blog](https://benjdmaclaren.wordpress.com/) to a more professional
-    portfolio website."
+    It's time I graduated from a infrequent [personal blog](https://benjdmaclaren.wordpress.com/) to a more professional portfolio website."
     url: /This-Portfolio-Website/
     btn_label: Read More
     btn_class: "btn--inverse"
