@@ -63,7 +63,6 @@ feature_row3:
     brn_class: btn-round
 
 ---
-{% include feature_row3 id="intro" type="center" %}
 
 {% include feature_row id="intro" type="center" %}
 
@@ -71,3 +70,5 @@ feature_row3:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row3 id="feature_row3" type="center" %}
