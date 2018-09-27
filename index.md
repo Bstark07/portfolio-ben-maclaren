@@ -30,7 +30,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn-inverse"
 
-  - image_path: "assets/images/listen_angled.jpg"
+  - image_path: "assets/Innovation-ACT-Committee/explaining_helping.jpg"
     title: "Innovation ACT Committee"
     excerpt: "This year, I am honoured to be able to join a committee of iACT alumnis to help budding businesses going through the iACT Program"
 
