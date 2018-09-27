@@ -28,7 +28,7 @@ feature_row:
     public outreach content"
     url: /Health-Horizon/
     btn_label: "View"
-    btn_class: "btn--inverse"
+    btn_class: "btn-inverse"
 
   - image_path: "assets/images/listen_angled.jpg"
     title: "Innovation ACT Committee"
@@ -36,14 +36,14 @@ feature_row:
 
     url: "/innovation-act/"
     btn_label: "View"
-    btn_class: "btn--inverse"
+    btn_class: "btn-inverse"
 
   - image_path: "assets/images/comms.png"
     title: Strategies in Science Communication
     excerpt: "For the past few weeks I’ve been working with Health Horizons developing communications content including infographs using data analytics, articles and public outreach content"
     url: /Strategies-in-Science-Communication/
     btn_label: "View"
-    btn_class: "btn--inverse"
+    btn_class: "btn-inverse"
 
 feature_row2:
   - image_path: "assets/images/site.png"
@@ -53,8 +53,17 @@ feature_row2:
     It's time I graduated from a infrequent [personal blog](https://benjdmaclaren.wordpress.com/) to a more professional portfolio website."
     url: /This-Portfolio-Website/
     btn_label: Read More
-    btn_class: "btn--inverse"
+    btn_class: "btn-inverse"
+
+feature_row3:
+  - btn_label: Facebook
+    brn_class: btn-round
+
+  - btn_label: Twitter
+    brn_class: btn-round
+
 ---
+{% include feature_row3 id="intro" type="center" %}
 
 {% include feature_row id="intro" type="center" %}
 
