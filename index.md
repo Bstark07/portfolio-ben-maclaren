@@ -21,7 +21,7 @@ intro:
 
 feature_row:
 
-  - image_path: "assets/images/horizon.jpg"
+  - image_path: "assets/health-horizons/hh-teaser.png"
     title: Health Horizon
     excerpt: "For the past few weeks I've been working with Health Horizons developing
     communications content including info-graphs using data analytics, articles and
@@ -30,7 +30,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn-inverse"
 
-  - image_path: "assets/images/explaining_helping.jpg"
+  - image_path: "assets/Innovation-ACT-Committee/iact-teaser.jpg"
     title: "Innovation ACT Committee"
     excerpt: "This year, I am honoured to be able to join a committee of iACT alumnis to help budding businesses going through the iACT Program"
 
@@ -38,7 +38,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn-inverse"
 
-  - image_path: "assets/images/comms.png"
+  - image_path: "assets/strategies-in-scicom/comms-teaser.png"
     title: Strategies in Science Communication
     excerpt: "For the past few weeks I’ve been working with Health Horizons developing communications content including infographs using data analytics, articles and public outreach content"
     url: /Strategies-in-Science-Communication/
