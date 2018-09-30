@@ -7,7 +7,7 @@ permalink: /This-Portfolio-Website/
 excerpt: "After a few years of projects, it's time I put them up online."
 
 header:
-  teaser: "assets/images/site.png"
+  teaser: "assets/portfolio-site/site-teaser.png"
 
 sidebar:
   - title: Website Development

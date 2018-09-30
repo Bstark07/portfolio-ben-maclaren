@@ -10,8 +10,8 @@ Strategies in Science Communication; a ANU course and public short course in tec
 for developing communication strategies"
 
 header:
-  teaser: "assets/images/comms.png"
-  overlay_image: "assets/images/comms.png"
+  teaser: "assets/strategies-in-scicom/comms-teaser.png"
+  overlay_image: "assets/strategies-in-scicom/comms-teaser.png"
   overlay_filter: 0.5
 
 sidebar:
