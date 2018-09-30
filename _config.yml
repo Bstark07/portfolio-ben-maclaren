@@ -53,8 +53,8 @@ collections:
 author:
   name: "Benjamin Maclaren"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an amazing person."
-  location: "Everywhere"
+  bio: "A passion for science, technology and communication."
+  location: "Canberra, ACT"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -62,6 +62,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bstark07"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/bmacl/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
